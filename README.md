@@ -1,3 +1,3 @@
 # ringzer0-ctf
 
-Some coding written to solve the ringzer0-ctf challenges
+Some code written to solve the ringzer0-ctf challenges
